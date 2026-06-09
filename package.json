@@ -1,0 +1,14 @@
+{
+  "name": "exodusbot-app",
+  "version": "3.2.5",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3"
+}
